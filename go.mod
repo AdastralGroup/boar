@@ -1,4 +1,4 @@
-module github.com/itchio/boar
+module github.com/AdastralGroup/boar
 
 go 1.12
 
